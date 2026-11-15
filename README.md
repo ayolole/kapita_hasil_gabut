@@ -58,11 +58,11 @@ D:\Tubes_Kapsel
 
 | Nama | NIM | Peran |
 |---|---|---|
-| Winda Nainggolan | 124140220 | Koordinator Lapangan |
-| Melvin Satria Gunanta Sitepu | 124140173 | Pengujian |
-| Muhammad Naufal Ramadhan | 124140160 | Dokumentasi |
-| Wafi Ziqra Maulana | 124140043 | Pengumpulan dan Pengolahan Data |
-| Qinthafa Treza Aimar | 124140155 | Pengembangan Solusi |
+| Winda Nainggolan | 124140220 |
+| Melvin Satria Gunanta Sitepu | 124140173 |
+| Muhammad Naufal Ramadhan | 124140160 |
+| Wafi Ziqra Maulana | 124140043 |
+| Qinthafa Treza Aimar | 124140155 |
 
 ## 🎓 Informasi Proyek
 
