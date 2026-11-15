@@ -57,7 +57,7 @@ D:\Tubes_Kapsel
 **Kelompok 2 — Teknik Informatika ITERA**
 
 | Nama | NIM |
-|---|---|---|
+|---|---|
 | Winda Nainggolan | 124140220 |
 | Melvin Satria Gunanta Sitepu | 124140173 |
 | Muhammad Naufal Ramadhan | 124140160 |
