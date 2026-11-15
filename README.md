@@ -1,10 +1,10 @@
-# 🌾 Profil Hasil Tani Desa Banjar Agung
+# Profil Hasil Tani Desa Banjar Agung
 
 Website Profil Hasil Tani Desa Banjar Agung merupakan proyek pengembangan sistem informasi berbasis web yang bertujuan memperkenalkan potensi pertanian lokal dan meningkatkan visibilitas hasil tani melalui platform digital.
 
 Proyek ini dikembangkan oleh **Kelompok 2, Program Studi Teknik Informatika, Institut Teknologi Sumatera (ITERA)** sebagai bagian dari mata kuliah Kapita Selekta Informatika tahun 2026.
 
-## 🎯 Tujuan Proyek
+## Tujuan Proyek
 
 Desa Banjar Agung memiliki potensi pertanian yang cukup besar, tetapi informasi mengenai hasil tani dan petani lokal masih belum dipublikasikan secara digital secara optimal.
 
@@ -15,7 +15,7 @@ Melalui proyek ini, kami mengembangkan katalog digital untuk:
 - Mempermudah komunikasi calon pembeli dengan admin desa melalui WhatsApp.
 - Mendukung digitalisasi dan branding potensi desa.
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 **Halaman Publik**
 - Katalog hasil tani dengan pencarian dan filter.
@@ -31,7 +31,7 @@ Melalui proyek ini, kami mengembangkan katalog digital untuk:
 - Pengaturan website dan log aktivitas.
 - Dashboard statistik dan ekspor data.
 
-## 🛠️ Teknologi
+## Teknologi
 
 | Bagian | Teknologi |
 |---|---|
@@ -42,7 +42,7 @@ Melalui proyek ini, kami mengembangkan katalog digital untuk:
 | Autentikasi | Laravel Sanctum |
 | HTTP Client | Axios |
 
-## 📁 Struktur Proyek
+## Struktur Proyek
 
 ```text
 D:\Tubes_Kapsel
@@ -52,7 +52,7 @@ D:\Tubes_Kapsel
 └── README.md
 ```
 
-## 👥 Tim Pengembang
+## Tim Pengembang
 
 **Kelompok 2 — Teknik Informatika ITERA**
 
@@ -64,7 +64,7 @@ D:\Tubes_Kapsel
 | Wafi Ziqra Maulana | 124140043 |
 | Qinthafa Treza Aimar | 124140155 |
 
-## 🎓 Informasi Proyek
+## Informasi Proyek
 
 - **Mata Kuliah:** Kapita Selekta Informatika
 - **Institusi:** Institut Teknologi Sumatera
